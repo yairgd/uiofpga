@@ -10,3 +10,6 @@ Just define the following vaiable
 ```bash
 export KERNEL_SRC=/path/to/zynq/kernel-source/
 ```
+
+## build FPGA projct
+Using Vivado, you have to import a TCL bock design and map the IOs to pinout.
