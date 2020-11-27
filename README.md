@@ -6,7 +6,7 @@ The Userspace I/O framework (UIO) is part of the Linux kernel and allows device 
 [continue reding here](https://yairgd.github.io/2020/02/linux-uio-driver-to-handle-with-irq-source/)
 
 ## build kernel
-Just define the following vaiable
+Just define the following variable
 ```bash
 export KERNEL_SRC=/path/to/zynq/kernel-source/
 ```
