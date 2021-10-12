@@ -96,7 +96,7 @@ static irqreturn_t my_handler(int irq, struct uio_info *dev_info)
 	return IRQ_HANDLED;
 }
 
-#define DEVNAME "fpga-belkin"
+#define DEVNAME "fpga"
 static int __init my_init(void)
 {
 	struct device_node * np = NULL;
